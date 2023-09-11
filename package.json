@@ -1,0 +1,12 @@
+{
+  "name": "fastjs",
+  "version": "1.0.0",
+  "description": "A simple Libray of nodejs",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "fastJs"
+  ],
+  "author": "Gyanendra Baghel",
+  "license": "ISC"
+}
